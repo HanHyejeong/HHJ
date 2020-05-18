@@ -29,7 +29,7 @@ function saveCoords(coordsObj){
 }
 
 function handleGeoError(){
-    console.log("Can't access geo location");
+    console.log("현재 위치를 조회할 수 없습니다.");
 }
 
 function askForCoords(){
