@@ -1,0 +1,30 @@
+div{
+    width: 150px; height: 120px;
+}
+
+#one{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-color: blue;
+
+    z-index: 3;
+}
+
+#two{
+    position: absolute;
+    left: 40px;
+    top: 30px;
+    background-color: yellow;
+
+    z-index: 1;
+}
+
+#three{
+    position: absolute;
+    left: 80px;
+    top: 60px;
+    background-color: green;
+    
+    z-index: -1;
+}

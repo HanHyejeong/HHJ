@@ -1,0 +1,26 @@
+div{
+    font-size: small;
+    line-height: 1;
+    width: 200px; height: 40px;
+    background-color: aquamarine;
+}
+
+p{
+    line-height: 1;
+    width: 200px; height: 50px;
+    background-color: aquamarine;
+}
+
+#two{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    background-color: yellow;
+}
+
+#five{
+    position: fixed;
+    top: 160px;
+    left: 100px;
+    background-color: yellow;
+}
