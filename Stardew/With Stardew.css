@@ -8,7 +8,7 @@ a {
 }
 
 hr {
-    color: #8ea8cf;
+    color: #668fce;
     border: solid 2px;
 }
 
@@ -16,6 +16,9 @@ ul {
     list-style-type: square;
 }
 
+.box {
+    width: 260px;
+}
 .down {
     background-color: #8faedd;
     border: none;
